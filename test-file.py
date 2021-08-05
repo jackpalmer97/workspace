@@ -2,6 +2,6 @@
 import sys
 import platform
 
-#print(platform.uname())
+# print(platform.uname())
 print(sys.executable)
 print("Hello World")
